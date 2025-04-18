@@ -180,6 +180,7 @@
 	charmap "û",         $ca
 	charmap "ê",         $cb
 	charmap "î",         $cc
+	charmap "←",         $cf
 
 	charmap "c'",        $d4
 	charmap "d'",        $d5
